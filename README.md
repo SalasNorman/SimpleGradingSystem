@@ -1,13 +1,18 @@
 # Simple Grading System in Philippines
 @ Norman Salas
+
 Language: VB.NET
+
 Database: MS ACCESS
 
 
 ## Student Form
 CRUD student. 
+
 SINGLE CLICK on DGV for more info. 
+
 DOUBLE CLICK for grade the selected student
+
 ## Grade Form
 Field: Exam, Project, Quiz, Class Participation.
 
