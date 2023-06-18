@@ -1,0 +1,13 @@
+C:\Users\salas\source\repos\SimpleGradingSystem\SimpleGradingSystem\bin\Debug\SimpleGradingSystem.exe.config
+C:\Users\salas\source\repos\SimpleGradingSystem\SimpleGradingSystem\bin\Debug\SimpleGradingSystem.exe
+C:\Users\salas\source\repos\SimpleGradingSystem\SimpleGradingSystem\bin\Debug\SimpleGradingSystem.pdb
+C:\Users\salas\source\repos\SimpleGradingSystem\SimpleGradingSystem\bin\Debug\SimpleGradingSystem.xml
+C:\Users\salas\source\repos\SimpleGradingSystem\SimpleGradingSystem\obj\Debug\SimpleGradingSystem.vbprojAssemblyReference.cache
+C:\Users\salas\source\repos\SimpleGradingSystem\SimpleGradingSystem\obj\Debug\SimpleGradingSystem.GradingSystem.resources
+C:\Users\salas\source\repos\SimpleGradingSystem\SimpleGradingSystem\obj\Debug\SimpleGradingSystem.Resources.resources
+C:\Users\salas\source\repos\SimpleGradingSystem\SimpleGradingSystem\obj\Debug\SimpleGradingSystem.vbproj.GenerateResource.cache
+C:\Users\salas\source\repos\SimpleGradingSystem\SimpleGradingSystem\obj\Debug\SimpleGradingSystem.vbproj.CoreCompileInputs.cache
+C:\Users\salas\source\repos\SimpleGradingSystem\SimpleGradingSystem\obj\Debug\SimpleGradingSystem.exe
+C:\Users\salas\source\repos\SimpleGradingSystem\SimpleGradingSystem\obj\Debug\SimpleGradingSystem.xml
+C:\Users\salas\source\repos\SimpleGradingSystem\SimpleGradingSystem\obj\Debug\SimpleGradingSystem.pdb
+C:\Users\salas\source\repos\SimpleGradingSystem\SimpleGradingSystem\obj\Debug\SimpleGradingSystem.Student.resources
